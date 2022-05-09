@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HR.
+- 👋 Hi, I’m Hrishabh.
 - 👀 I’m interested in learning CyberSecurity and Ethical Hacking Techniques to make internet safer place.
 - 🌱 I’m currently learning Ethical Hacking by my own.
 - 📫 You can reach me via hrhackjackop@gmail.com.
