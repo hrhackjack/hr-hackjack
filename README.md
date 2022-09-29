@@ -21,5 +21,5 @@
 ### Workflow
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat-square&logo=archlinux&logoColor=1793D1)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
