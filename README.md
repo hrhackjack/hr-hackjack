@@ -3,6 +3,9 @@
 - 👀 I’m interested in learning Ethical Hacking and CyberSecurity and Techniques.
 - 🌱 I’m currently learning ✨ Ethical Hacking and Competitive Programming ✨ by my own.
 - 📫 You can reach me via hrhackjackop@gmail.com.
+-
+
+### Skills:
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-.py-orange)
