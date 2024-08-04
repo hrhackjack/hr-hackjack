@@ -8,7 +8,7 @@
 ### Skills:
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-!-red)
+![Python](https://img.shields.io/badge/-Python-!-red?style=flat-square&logo=python&logoColor=00599C)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
