@@ -1,4 +1,4 @@
-- https://socialify.git.ci/hr-hackjack/hr-hackjack/image?description=1&descriptionEditable=An%20Open%20Source%20Repository%20For%20Learners.&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Light
+- ![alt text](https://github.com/hrhackjack/hr-hackjack/blob/main/Github_HRhackjack.png)
 - 👋 Hi, I’m Hrishabh.
 - 👀 I’m interested in learning Ethical Hacking, CyberSecurity and Machine Learning Techniques.
 - 🌱 I’m currently learning ✨ Ethical Hacking and Machine Learning ✨ by my own.
