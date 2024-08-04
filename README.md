@@ -1,9 +1,9 @@
-- ![alt text](https://github.com/hrhackjack/hr-hackjack/blob/main/Github_HRhackjack.png)
+![HRhackjack](https://github.com/hrhackjack/hr-hackjack/blob/main/Github_HRhackjack.png)
 - 👋 Hi, I’m Hrishabh.
 - 👀 I’m interested in learning Ethical Hacking, CyberSecurity and Machine Learning Techniques.
 - 🌱 I’m currently learning ✨ Ethical Hacking and Machine Learning ✨ by my own.
-- 📫 You can reach me via hrhackjackop@gmail.com.
--
+- 📫 You can reach me via iamhrishabhraj@gmail.com.
+
 
 ### Skills:
 
